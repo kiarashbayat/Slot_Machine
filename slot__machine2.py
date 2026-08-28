@@ -34,7 +34,9 @@ while True:
   
     if balance < bet or bet <= 0:
             
-              print(" your balance is not enough for the  bet amount that you entered or maybe you entered negative or zero bet amount , you can't play! set your bet amount again")
+              print(""" your balance is not enough for the  bet amount that you entered 
+              or maybe you entered negative or zero bet amount 
+              you can't play! set your bet amount again""")
                 
               while True:
                 
