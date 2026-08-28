@@ -16,4 +16,3 @@ If the required symbols match, the player wins; otherwise, the player loses.
 # Technologies
 Python 🐍
 random module
-پ
